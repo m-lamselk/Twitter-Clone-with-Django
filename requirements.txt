@@ -1,0 +1,4 @@
+django==2.2
+django-cors-headers
+djangorestframework
+#is_safe_url -> url_has_allowed_host_and_scheme
