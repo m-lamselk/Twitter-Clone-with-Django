@@ -2,4 +2,4 @@
 
 Web Development Project: Twitter Clone with Django, Javascript and React.js.
 
-![inception](/static/media/itweet.JPG)
+![iTweet](/static/media/itweet.JPG)
